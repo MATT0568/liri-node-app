@@ -4,7 +4,8 @@ You may use commands to see info on concerts, songs, and movies.
 
 ## Getting Started
 
-you need this link: https://matt0568.github.io/liri-node-app/
+you need to downloadfrom here: https://github.com/MATT0568/liri-node-app.git
+and have node installed.
 
 The usable commands are as follows:
 concert-this
